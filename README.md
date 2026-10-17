@@ -70,4 +70,4 @@ ls cat README.txt
 ## FIN DEL JUEGO
 
 ## TAREA SCRIPTS
-[scripts] (SCRIPTS)
+[scripts](SCRIPTS)
