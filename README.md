@@ -68,3 +68,6 @@ $0 whoami cat/ etc/ bandit_pass/bandit33
 # nivel 32-33
 ls cat README.txt
 ## FIN DEL JUEGO
+
+## TAREA SCRIPTS
+[scripts] (SCRIPTS)
